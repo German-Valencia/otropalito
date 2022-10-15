@@ -139,7 +139,7 @@ function toggleText5(){
 
 
 
-let hideText_btn6 = document.getElementById("hideText_btn6");
+/* let hideText_btn6 = document.getElementById("hideText_btn6");
 
 let hideText6 = document.getElementById("hideText6");
 
@@ -154,7 +154,7 @@ function toggleText6(){
 	else{
 		hideText_btn6.value = 'Leer más...';
 	}
-}
+} */
 
 let hideText_btn7 = document.getElementById("hideText_btn7");
 
